@@ -52,9 +52,8 @@ python src/main/pipeline.py
 
 # 🧹 Error Handling
 Invalid records (missing columns, nulls) → moved to:
-S3 error path: s3://bcvproject-1/sales_data_error/
-Local backup path:
-C:\Users\bcvpt\OneDrive\Documents\DE Project\error_files\
+- S3 error path: s3://bcvproject-1/sales_data_error/
+- Local backup path:C:\Users\bcvpt\OneDrive\Documents\DE Project\error_files\
 
 # 🗃 Output
 ## ✅ Clean Data → MySQL Tables
