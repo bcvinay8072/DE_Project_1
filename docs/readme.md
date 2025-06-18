@@ -34,13 +34,15 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 ## 2. Create .env file in the project root:
+```
 AWS_ACCESS_KEY=YOUR_KEY
 AWS_SECRET_KEY=YOUR_SECRET
 MYSQL_PASSWORD=yourpassword
-
+```
 ## 3. Run the pipeline
+```
 python src/main/pipeline.py
-
+```
 ## This will:
 - Download the sales file from S3
 - Validate and process data
