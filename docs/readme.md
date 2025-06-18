@@ -75,6 +75,8 @@ Customer data mart output: s3://bcvproject-1/customer_data_mart/
 - Push metrics to Prometheus/Grafana
 - Integrate with CI/CD using GitHub Actions
 
-👨‍💻 Author
-Chenchu Vinay Boga
-GitHub: @bcvinay8072
+## 👨‍💻 Author
+
+**Chenchu Vinay Boga**  
+GitHub: [@bcvinay8072](https://github.com/bcvinay8072)
+
