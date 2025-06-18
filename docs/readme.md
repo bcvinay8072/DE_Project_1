@@ -28,10 +28,11 @@ MYSQL_PASSWORD=your-db-password
 
 # 🚀 How to Run
 ## 1. Set up environment
+```
 python -m venv .venv
 .venv\Scripts\activate        # On Windows
 pip install -r requirements.txt
-
+```
 ## 2. Create .env file in the project root:
 AWS_ACCESS_KEY=YOUR_KEY
 AWS_SECRET_KEY=YOUR_SECRET
